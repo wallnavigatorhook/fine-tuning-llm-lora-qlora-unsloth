@@ -1,0 +1,35 @@
+    _______                  __              _            
+   / ____(_)___  ___        / /___  ______  (_)___  ____ _
+  / /_  / / __ \/ _ \______/ __/ / / / __ \/ / __ \/ __ `/
+ / __/ / / / / /  __/_____/ /_/ /_/ / / / / / / / / /_/ / 
+/_/   /_/_/ /_/\___/      \__/\__,_/_/ /_/_/_/ /_/\__, /  
+                                                 /____/   
+    __    __    __  ___
+   / /   / /   /  |/  /
+  / /   / /   / /|_/ / 
+ / /___/ /___/ /  / /  
+/_____/_____/_/  /_/
+
+Fine-tuning LLM
+
+Fine-tuning LLM — lora, qlora, unsloth, fine tune tutorial.
+
+
+About
+- lora, qlora, unsloth, fine tune tutorial.
+- Full build: qlora, unsloth, fine tune tutorial, lora training, fine tune chatgpt.
+- Platform: Windows macOS iOS Android Web
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/Download-06-01-11
+
+**************************************************
+
+
+TAGS
+fine-tuning, lora, qlora, unsloth, peft, llm-training, machine-learning
